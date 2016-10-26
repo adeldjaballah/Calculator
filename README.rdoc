@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+To run this application you need Ruby on Rails. Please refer to the official Website : https://www.ruby-lang.org/fr/documentation/installation/
 
-Things you may want to cover:
+To run the server type in the terminal at the root of this project : rails server
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+The link of the application : http://localhost:3000 (port 3000)
