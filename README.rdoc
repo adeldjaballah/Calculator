@@ -1,6 +1,7 @@
 == README
 
-To run this application you need Ruby on Rails. Please refer to the official Website : https://www.ruby-lang.org/fr/documentation/installation/
+To run this application you need Ruby on Rails. Please refer to the official Websites : https://www.ruby-lang.org/fr/documentation/installation/
+http://rubyonrails.org/
 
 To run the server type in the terminal at the root of this project : rails server
 
